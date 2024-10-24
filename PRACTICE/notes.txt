@@ -1,0 +1,4 @@
+javascript is based on callback function...
+You can write also js in console(right click inspect)
+To print something use console.log("  ")
+
